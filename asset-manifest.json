@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Your-Comrade/static/css/main.f4b1a175.chunk.css",
-    "main.js": "/Your-Comrade/static/js/main.cd11c52c.chunk.js",
-    "main.js.map": "/Your-Comrade/static/js/main.cd11c52c.chunk.js.map",
-    "runtime-main.js": "/Your-Comrade/static/js/runtime-main.98f177d8.js",
-    "runtime-main.js.map": "/Your-Comrade/static/js/runtime-main.98f177d8.js.map",
-    "static/js/2.c2c469af.chunk.js": "/Your-Comrade/static/js/2.c2c469af.chunk.js",
-    "static/js/2.c2c469af.chunk.js.map": "/Your-Comrade/static/js/2.c2c469af.chunk.js.map",
-    "index.html": "/Your-Comrade/index.html",
-    "static/css/main.f4b1a175.chunk.css.map": "/Your-Comrade/static/css/main.f4b1a175.chunk.css.map",
-    "static/js/2.c2c469af.chunk.js.LICENSE.txt": "/Your-Comrade/static/js/2.c2c469af.chunk.js.LICENSE.txt",
-    "static/media/style-header.css": "/Your-Comrade/static/media/1920x900_f0qcvys.29805942.jpg",
-    "static/media/index.css": "/Your-Comrade/static/media/Search-fon.359e7916.jpg",
-    "static/media/style-instuction.css": "/Your-Comrade/static/media/f2.0b684793.jpg",
-    "static/media/style-chat.css": "/Your-Comrade/static/media/sun-clouds-blue-sky.d2130ce4.jpg",
-    "static/media/contact.css": "/Your-Comrade/static/media/world-of-tanks-235049-5928766.5dae3374.jpg"
+    "main.css": "/Y-C/static/css/main.578fa92b.chunk.css",
+    "main.js": "/Y-C/static/js/main.cd11c52c.chunk.js",
+    "main.js.map": "/Y-C/static/js/main.cd11c52c.chunk.js.map",
+    "runtime-main.js": "/Y-C/static/js/runtime-main.5fd305ae.js",
+    "runtime-main.js.map": "/Y-C/static/js/runtime-main.5fd305ae.js.map",
+    "static/js/2.c2c469af.chunk.js": "/Y-C/static/js/2.c2c469af.chunk.js",
+    "static/js/2.c2c469af.chunk.js.map": "/Y-C/static/js/2.c2c469af.chunk.js.map",
+    "index.html": "/Y-C/index.html",
+    "static/css/main.578fa92b.chunk.css.map": "/Y-C/static/css/main.578fa92b.chunk.css.map",
+    "static/js/2.c2c469af.chunk.js.LICENSE.txt": "/Y-C/static/js/2.c2c469af.chunk.js.LICENSE.txt",
+    "static/media/style-header.css": "/Y-C/static/media/1920x900_f0qcvys.29805942.jpg",
+    "static/media/index.css": "/Y-C/static/media/Search-fon.359e7916.jpg",
+    "static/media/style-instuction.css": "/Y-C/static/media/f2.0b684793.jpg",
+    "static/media/style-chat.css": "/Y-C/static/media/sun-clouds-blue-sky.d2130ce4.jpg",
+    "static/media/contact.css": "/Y-C/static/media/world-of-tanks-235049-5928766.5dae3374.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.98f177d8.js",
+    "static/js/runtime-main.5fd305ae.js",
     "static/js/2.c2c469af.chunk.js",
-    "static/css/main.f4b1a175.chunk.css",
+    "static/css/main.578fa92b.chunk.css",
     "static/js/main.cd11c52c.chunk.js"
   ]
 }
